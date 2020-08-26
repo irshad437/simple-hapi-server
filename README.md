@@ -10,8 +10,8 @@ SImple hapi server to demonstrate GET/POST methods with Joi validation
 
 # Routes
 
-GET "/store"
-POST "/store"
-GET "/store/{name}"
-POST "/store/{name}/item"
-GET "/store/{name}/item"
+1. GET "/store"
+2. POST "/store"
+3. GET "/store/{name}"
+4. POST "/store/{name}/item"
+5. GET "/store/{name}/item"
